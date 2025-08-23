@@ -1,6 +1,6 @@
-# 📊 Credit Scorecard Modeling – Lending Club Loan Data
+# Credit Scorecard Modeling – Lending Club Loan Data
 
-## 📌 Project Overview
+## Project Overview
 This repository contains a complete end‑to‑end workflow for **Credit Risk Scorecard Development** using **Lending Club** consumer loan data (2007–2015).  
 The goal is to:
 - Predict the **Probability of Default (PD)** for loan applicants
@@ -12,7 +12,7 @@ The workflow follows international credit risk modeling practices, performing **
 
 ---
 
-## 📂 Notebooks in this Repository
+## Notebooks in this Repository
 
 ### 1. **Credit-Risk-Modeling-Preparation-With-Comments.ipynb**
 **Purpose:** Data cleaning, preprocessing, and feature engineering.
@@ -54,7 +54,7 @@ Key steps:
 
 ---
 
-## 🗂 Data
+## Data
 - **Source:** Lending Club Loan Data (Kaggle – [Loan Data 2007–2015 by Wendy Kan](https://www.kaggle.com/wendykan/lending-club-loan-data))
 - **Target Variable:** Binary default flag (`good_bad`)
   - `1` = Good loan (repaid)
@@ -65,7 +65,3 @@ Key steps:
   - Credit history metrics (months since earliest credit, public records, revolving limits)
 
 ---
-
-## ⚙️ Environment & Dependencies
-**Python 3.x**  
-Required libraries:
